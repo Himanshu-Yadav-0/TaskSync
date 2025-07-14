@@ -1,4 +1,4 @@
-# SOD/EOD Task Tracker
+# TaskSync
 
 A full-stack web application for tracking daily tasks with automated Start of Day (SOD) and End of Day (EOD) email reporting system.
 
@@ -20,7 +20,7 @@ A full-stack web application for tracking daily tasks with automated Start of Da
 
 ## 🎯 Overview
 
-The SOD/EOD Task Tracker is designed to help professionals maintain daily task accountability through systematic tracking and automated email reporting. The application allows users to plan their daily tasks in the morning (SOD) and review their progress in the evening (EOD), with automatic email notifications to supervisors or team leads.
+The TaskSync is designed to help professionals maintain daily task accountability through systematic tracking and automated email reporting. The application allows users to plan their daily tasks in the morning (SOD) and review their progress in the evening (EOD), with automatic email notifications to supervisors or team leads.
 
 ## ✨ Features
 
